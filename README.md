@@ -13,3 +13,5 @@ La aplicación permite:
 - Visualizar una vista previa de los datos del conjunto de anuncios de vehículos.
 - Generar un **histograma** que muestra la distribución del kilometraje (`odometer`) de los vehículos.
 - Generar un **gráfico de dispersión** que muestra la relación entre el kilometraje y el precio de venta de los vehículos.
+
+link de la pagina https://proyecto-7-1134.onrender.com/
